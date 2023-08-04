@@ -1,0 +1,10 @@
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_extraction\bin\Debug\cs_omr_extraction.exe.config
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_extraction\bin\Debug\cs_omr_extraction.exe
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_extraction\bin\Debug\cs_omr_extraction.pdb
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_extraction\obj\Debug\cs_omr_extraction.csproj.AssemblyReference.cache
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_extraction\obj\Debug\cs_omr_extraction.Form1.resources
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_extraction\obj\Debug\cs_omr_extraction.Properties.Resources.resources
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_extraction\obj\Debug\cs_omr_extraction.csproj.GenerateResource.cache
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_extraction\obj\Debug\cs_omr_extraction.csproj.CoreCompileInputs.cache
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_extraction\obj\Debug\cs_omr_extraction.exe
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_extraction\obj\Debug\cs_omr_extraction.pdb

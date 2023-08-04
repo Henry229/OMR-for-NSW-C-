@@ -1,0 +1,92 @@
+C:\TFS\CS OMR\cs_omr_writer\bin\Debug\cs_omr_writer.exe.config
+C:\TFS\CS OMR\cs_omr_writer\bin\Debug\cs_omr_writer.exe
+C:\TFS\CS OMR\cs_omr_writer\bin\Debug\cs_omr_writer.pdb
+C:\TFS\CS OMR\cs_omr_writer\bin\Debug\AForge.dll
+C:\TFS\CS OMR\cs_omr_writer\bin\Debug\AForge.Imaging.dll
+C:\TFS\CS OMR\cs_omr_writer\bin\Debug\AForge.Math.dll
+C:\TFS\CS OMR\cs_omr_writer\bin\Debug\CButtonLib.dll
+C:\TFS\CS OMR\cs_omr_writer\bin\Debug\cs_omr_lib.dll
+C:\TFS\CS OMR\cs_omr_writer\bin\Debug\cs_omr_lib.pdb
+C:\TFS\CS OMR\cs_omr_writer\bin\Debug\AForge.xml
+C:\TFS\CS OMR\cs_omr_writer\bin\Debug\AForge.Imaging.xml
+C:\TFS\CS OMR\cs_omr_writer\bin\Debug\AForge.Math.xml
+C:\TFS\CS OMR\cs_omr_writer\bin\Debug\CButtonLib.xml
+C:\TFS\CS OMR\cs_omr_writer\obj\Debug\cs_omr_writer.csprojAssemblyReference.cache
+C:\TFS\CS OMR\cs_omr_writer\obj\Debug\CSedu.OMR.BlockArea.resources
+C:\TFS\CS OMR\cs_omr_writer\obj\Debug\CSedu.OMR.frmEditor.resources
+C:\TFS\CS OMR\cs_omr_writer\obj\Debug\CSedu.OMR.Properties.Resources.resources
+C:\TFS\CS OMR\cs_omr_writer\obj\Debug\cs_omr_writer.csproj.GenerateResource.cache
+C:\TFS\CS OMR\cs_omr_writer\obj\Debug\cs_omr_writer.csproj.CoreCompileInputs.cache
+C:\TFS\CS OMR\cs_omr_writer\obj\Debug\cs_omr_writer.csproj.CopyComplete
+C:\TFS\CS OMR\cs_omr_writer\obj\Debug\cs_omr_writer.exe
+C:\TFS\CS OMR\cs_omr_writer\obj\Debug\cs_omr_writer.pdb
+C:\TFS\CS OMR - TESTBANK\cs_omr_writer\obj\Debug\cs_omr_writer.csprojAssemblyReference.cache
+C:\TFS\CS OMR - TESTBANK\cs_omr_writer\obj\Debug\CSedu.OMR.BlockArea.resources
+C:\TFS\CS OMR - TESTBANK\cs_omr_writer\obj\Debug\CSedu.OMR.frmEditor.resources
+C:\TFS\CS OMR - TESTBANK\cs_omr_writer\obj\Debug\CSedu.OMR.Properties.Resources.resources
+C:\TFS\CS OMR - TESTBANK\cs_omr_writer\obj\Debug\cs_omr_writer.csproj.GenerateResource.cache
+C:\TFS\CS OMR - TESTBANK\cs_omr_writer\obj\Debug\cs_omr_writer.csproj.CoreCompileInputs.cache
+C:\TFS\CS OMR - TESTBANK\cs_omr_writer\obj\Debug\cs_omr_writer.exe
+C:\TFS\CS OMR - TESTBANK\cs_omr_writer\obj\Debug\cs_omr_writer.pdb
+C:\TFS\CS OMR - TESTBANK\cs_omr_writer\bin\Debug\cs_omr_writer.exe.config
+C:\TFS\CS OMR - TESTBANK\cs_omr_writer\bin\Debug\cs_omr_writer.exe
+C:\TFS\CS OMR - TESTBANK\cs_omr_writer\bin\Debug\cs_omr_writer.pdb
+C:\TFS\CS OMR - TESTBANK\cs_omr_writer\bin\Debug\AForge.dll
+C:\TFS\CS OMR - TESTBANK\cs_omr_writer\bin\Debug\AForge.Imaging.dll
+C:\TFS\CS OMR - TESTBANK\cs_omr_writer\bin\Debug\AForge.Math.dll
+C:\TFS\CS OMR - TESTBANK\cs_omr_writer\bin\Debug\CButtonLib.dll
+C:\TFS\CS OMR - TESTBANK\cs_omr_writer\bin\Debug\cs_omr_lib.dll
+C:\TFS\CS OMR - TESTBANK\cs_omr_writer\bin\Debug\cs_omr_lib.pdb
+C:\TFS\CS OMR - TESTBANK\cs_omr_writer\bin\Debug\AForge.xml
+C:\TFS\CS OMR - TESTBANK\cs_omr_writer\bin\Debug\AForge.Imaging.xml
+C:\TFS\CS OMR - TESTBANK\cs_omr_writer\bin\Debug\AForge.Math.xml
+C:\TFS\CS OMR - TESTBANK\cs_omr_writer\bin\Debug\CButtonLib.xml
+C:\TFS\CS OMR - TESTBANK\cs_omr_writer\obj\Debug\cs_omr_writer.csproj.CopyComplete
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_writer\bin\Debug\cs_omr_writer.exe.config
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_writer\bin\Debug\cs_omr_writer.exe
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_writer\bin\Debug\cs_omr_writer.pdb
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_writer\bin\Debug\AForge.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_writer\bin\Debug\AForge.Imaging.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_writer\bin\Debug\AForge.Math.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_writer\bin\Debug\CButtonLib.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_writer\bin\Debug\cs_omr_lib.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_writer\bin\Debug\cs_omr_lib.pdb
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_writer\bin\Debug\AForge.xml
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_writer\bin\Debug\AForge.Imaging.xml
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_writer\bin\Debug\AForge.Math.xml
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_writer\bin\Debug\CButtonLib.xml
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_writer\obj\Debug\cs_omr_writer.csproj.AssemblyReference.cache
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_writer\obj\Debug\CSedu.OMR.BlockArea.resources
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_writer\obj\Debug\CSedu.OMR.frmEditor.resources
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_writer\obj\Debug\CSedu.OMR.Properties.Resources.resources
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_writer\obj\Debug\cs_omr_writer.csproj.GenerateResource.cache
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_writer\obj\Debug\cs_omr_writer.csproj.CoreCompileInputs.cache
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_writer\obj\Debug\cs_omr_writer.csproj.CopyComplete
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_writer\obj\Debug\cs_omr_writer.exe
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_writer\obj\Debug\cs_omr_writer.pdb
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_writer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_writer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_writer\bin\Debug\cs_omr_writer.exe.config
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_writer\bin\Debug\cs_omr_writer.exe
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_writer\bin\Debug\cs_omr_writer.pdb
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_writer\bin\Debug\AForge.dll
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_writer\bin\Debug\AForge.Imaging.dll
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_writer\bin\Debug\AForge.Math.dll
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_writer\bin\Debug\CButtonLib.dll
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_writer\bin\Debug\cs_omr_lib.dll
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_writer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_writer\bin\Debug\cs_omr_lib.pdb
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_writer\bin\Debug\AForge.xml
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_writer\bin\Debug\AForge.Imaging.xml
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_writer\bin\Debug\AForge.Math.xml
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_writer\bin\Debug\CButtonLib.xml
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_writer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_writer\obj\Debug\cs_omr_writer.csproj.AssemblyReference.cache
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_writer\obj\Debug\CSedu.OMR.BlockArea.resources
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_writer\obj\Debug\CSedu.OMR.frmEditor.resources
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_writer\obj\Debug\CSedu.OMR.Properties.Resources.resources
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_writer\obj\Debug\cs_omr_writer.csproj.GenerateResource.cache
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_writer\obj\Debug\cs_omr_writer.csproj.CoreCompileInputs.cache
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_writer\obj\Debug\cs_omr_writer.csproj.CopyComplete
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_writer\obj\Debug\cs_omr_writer.exe
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_writer\obj\Debug\cs_omr_writer.pdb

@@ -1,0 +1,180 @@
+C:\TFS\CS OMR\OMRReader\bin\Debug\CS_OMRReader.exe.config
+C:\TFS\CS OMR\OMRReader\bin\Debug\CS_OMRReader.exe
+C:\TFS\CS OMR\OMRReader\bin\Debug\CS_OMRReader.pdb
+C:\TFS\CS OMR\OMRReader\bin\Debug\en\CS_OMRReader.resources.dll
+C:\TFS\CS OMR\OMRReader\bin\Debug\ko\CS_OMRReader.resources.dll
+C:\TFS\CS OMR\OMRReader\bin\Debug\AForge.dll
+C:\TFS\CS OMR\OMRReader\bin\Debug\AForge.Imaging.dll
+C:\TFS\CS OMR\OMRReader\bin\Debug\AForge.Math.dll
+C:\TFS\CS OMR\OMRReader\bin\Debug\CButtonLib.dll
+C:\TFS\CS OMR\OMRReader\bin\Debug\cs_omr_lib.dll
+C:\TFS\CS OMR\OMRReader\bin\Debug\ExcelLibrary.dll
+C:\TFS\CS OMR\OMRReader\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\TFS\CS OMR\OMRReader\bin\Debug\NPOI.dll
+C:\TFS\CS OMR\OMRReader\bin\Debug\NPOI.OOXML.dll
+C:\TFS\CS OMR\OMRReader\bin\Debug\NPOI.OpenXml4Net.dll
+C:\TFS\CS OMR\OMRReader\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\TFS\CS OMR\OMRReader\bin\Debug\cs_omr_lib.pdb
+C:\TFS\CS OMR\OMRReader\bin\Debug\AForge.xml
+C:\TFS\CS OMR\OMRReader\bin\Debug\AForge.Imaging.xml
+C:\TFS\CS OMR\OMRReader\bin\Debug\AForge.Math.xml
+C:\TFS\CS OMR\OMRReader\bin\Debug\CButtonLib.xml
+C:\TFS\CS OMR\OMRReader\bin\Debug\NPOI.xml
+C:\TFS\CS OMR\OMRReader\bin\Debug\NPOI.OOXML.xml
+C:\TFS\CS OMR\OMRReader\bin\Debug\NPOI.OpenXml4Net.xml
+C:\TFS\CS OMR\OMRReader\obj\Debug\cs_omr_reader.csprojAssemblyReference.cache
+C:\TFS\CS OMR\OMRReader\obj\Debug\CSedu.OMR.dlgAdjust.resources
+C:\TFS\CS OMR\OMRReader\obj\Debug\CSedu.OMR.dlgAlart.resources
+C:\TFS\CS OMR\OMRReader\obj\Debug\CSedu.OMR.dlgFullSheet.resources
+C:\TFS\CS OMR\OMRReader\obj\Debug\CSedu.OMR.dlgStudent.resources
+C:\TFS\CS OMR\OMRReader\obj\Debug\CSedu.OMR.frmLogin.resources
+C:\TFS\CS OMR\OMRReader\obj\Debug\CSedu.OMR.frmReader.resources
+C:\TFS\CS OMR\OMRReader\obj\Debug\CSedu.OMR.pnlDetailScore.resources
+C:\TFS\CS OMR\OMRReader\obj\Debug\CSedu.OMR.Properties.Resources.resources
+C:\TFS\CS OMR\OMRReader\obj\Debug\CSedu.OMR.resource.msg.en.resources
+C:\TFS\CS OMR\OMRReader\obj\Debug\CSedu.OMR.resource.msg.ko.resources
+C:\TFS\CS OMR\OMRReader\obj\Debug\cs_omr_reader.csproj.GenerateResource.cache
+C:\TFS\CS OMR\OMRReader\obj\Debug\cs_omr_reader.csproj.CoreCompileInputs.cache
+C:\TFS\CS OMR\OMRReader\obj\Debug\en\CS_OMRReader.resources.dll
+C:\TFS\CS OMR\OMRReader\obj\Debug\ko\CS_OMRReader.resources.dll
+C:\TFS\CS OMR\OMRReader\obj\Debug\cs_omr_reader.csproj.CopyComplete
+C:\TFS\CS OMR\OMRReader\obj\Debug\CS_OMRReader.exe
+C:\TFS\CS OMR\OMRReader\obj\Debug\CS_OMRReader.pdb
+C:\TFS\CS OMR\OMRReader\bin\Debug\resource\msg.ko.resx
+C:\TFS\CS OMR\OMRReader\bin\Debug\resource\msg.ko.Designer.cs
+C:\TFS\CS OMR - TESTBANK\OMRReader\obj\Debug\cs_omr_reader.csprojAssemblyReference.cache
+C:\TFS\CS OMR - TESTBANK\OMRReader\obj\Debug\CSedu.OMR.dlgAdjust.resources
+C:\TFS\CS OMR - TESTBANK\OMRReader\obj\Debug\CSedu.OMR.dlgAlart.resources
+C:\TFS\CS OMR - TESTBANK\OMRReader\obj\Debug\CSedu.OMR.dlgFullSheet.resources
+C:\TFS\CS OMR - TESTBANK\OMRReader\obj\Debug\CSedu.OMR.dlgStudent.resources
+C:\TFS\CS OMR - TESTBANK\OMRReader\obj\Debug\CSedu.OMR.frmLogin.resources
+C:\TFS\CS OMR - TESTBANK\OMRReader\obj\Debug\CSedu.OMR.frmReader.resources
+C:\TFS\CS OMR - TESTBANK\OMRReader\obj\Debug\CSedu.OMR.pnlDetailScore.resources
+C:\TFS\CS OMR - TESTBANK\OMRReader\obj\Debug\CSedu.OMR.Properties.Resources.resources
+C:\TFS\CS OMR - TESTBANK\OMRReader\obj\Debug\CSedu.OMR.resource.msg.en.resources
+C:\TFS\CS OMR - TESTBANK\OMRReader\obj\Debug\CSedu.OMR.resource.msg.ko.resources
+C:\TFS\CS OMR - TESTBANK\OMRReader\obj\Debug\cs_omr_reader.csproj.GenerateResource.cache
+C:\TFS\CS OMR - TESTBANK\OMRReader\obj\Debug\cs_omr_reader.csproj.CoreCompileInputs.cache
+C:\TFS\CS OMR - TESTBANK\OMRReader\obj\Debug\CS_OMRReader.exe
+C:\TFS\CS OMR - TESTBANK\OMRReader\obj\Debug\CS_OMRReader.pdb
+C:\TFS\CS OMR - TESTBANK\OMRReader\bin\Debug\resource\msg.ko.resx
+C:\TFS\CS OMR - TESTBANK\OMRReader\bin\Debug\resource\msg.ko.Designer.cs
+C:\TFS\CS OMR - TESTBANK\OMRReader\bin\Debug\CS_OMRReader.exe.config
+C:\TFS\CS OMR - TESTBANK\OMRReader\bin\Debug\CS_OMRReader.exe
+C:\TFS\CS OMR - TESTBANK\OMRReader\bin\Debug\CS_OMRReader.pdb
+C:\TFS\CS OMR - TESTBANK\OMRReader\bin\Debug\en\CS_OMRReader.resources.dll
+C:\TFS\CS OMR - TESTBANK\OMRReader\bin\Debug\ko\CS_OMRReader.resources.dll
+C:\TFS\CS OMR - TESTBANK\OMRReader\bin\Debug\AForge.dll
+C:\TFS\CS OMR - TESTBANK\OMRReader\bin\Debug\AForge.Imaging.dll
+C:\TFS\CS OMR - TESTBANK\OMRReader\bin\Debug\AForge.Math.dll
+C:\TFS\CS OMR - TESTBANK\OMRReader\bin\Debug\CButtonLib.dll
+C:\TFS\CS OMR - TESTBANK\OMRReader\bin\Debug\cs_omr_lib.dll
+C:\TFS\CS OMR - TESTBANK\OMRReader\bin\Debug\ExcelLibrary.dll
+C:\TFS\CS OMR - TESTBANK\OMRReader\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\TFS\CS OMR - TESTBANK\OMRReader\bin\Debug\NPOI.dll
+C:\TFS\CS OMR - TESTBANK\OMRReader\bin\Debug\NPOI.OOXML.dll
+C:\TFS\CS OMR - TESTBANK\OMRReader\bin\Debug\NPOI.OpenXml4Net.dll
+C:\TFS\CS OMR - TESTBANK\OMRReader\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\TFS\CS OMR - TESTBANK\OMRReader\bin\Debug\cs_omr_lib.pdb
+C:\TFS\CS OMR - TESTBANK\OMRReader\bin\Debug\AForge.xml
+C:\TFS\CS OMR - TESTBANK\OMRReader\bin\Debug\AForge.Imaging.xml
+C:\TFS\CS OMR - TESTBANK\OMRReader\bin\Debug\AForge.Math.xml
+C:\TFS\CS OMR - TESTBANK\OMRReader\bin\Debug\CButtonLib.xml
+C:\TFS\CS OMR - TESTBANK\OMRReader\bin\Debug\NPOI.xml
+C:\TFS\CS OMR - TESTBANK\OMRReader\bin\Debug\NPOI.OOXML.xml
+C:\TFS\CS OMR - TESTBANK\OMRReader\bin\Debug\NPOI.OpenXml4Net.xml
+C:\TFS\CS OMR - TESTBANK\OMRReader\obj\Debug\en\CS_OMRReader.resources.dll
+C:\TFS\CS OMR - TESTBANK\OMRReader\obj\Debug\ko\CS_OMRReader.resources.dll
+C:\TFS\CS OMR - TESTBANK\OMRReader\obj\Debug\cs_omr_reader.csproj.CopyComplete
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\bin\Debug\resource\msg.ko.resx
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\bin\Debug\resource\msg.ko.Designer.cs
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\bin\Debug\CS_OMRReader.exe.config
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\bin\Debug\CS_OMRReader.exe
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\bin\Debug\CS_OMRReader.pdb
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\bin\Debug\en\CS_OMRReader.resources.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\bin\Debug\ko\CS_OMRReader.resources.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\bin\Debug\AForge.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\bin\Debug\AForge.Imaging.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\bin\Debug\AForge.Math.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\bin\Debug\CButtonLib.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\bin\Debug\cs_omr_lib.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\bin\Debug\ExcelLibrary.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\bin\Debug\NPOI.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\bin\Debug\NPOI.OOXML.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\bin\Debug\cs_omr_lib.pdb
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\bin\Debug\AForge.xml
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\bin\Debug\AForge.Imaging.xml
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\bin\Debug\AForge.Math.xml
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\bin\Debug\CButtonLib.xml
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\bin\Debug\NPOI.xml
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\bin\Debug\NPOI.OOXML.xml
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\obj\Debug\cs_omr_reader.csproj.AssemblyReference.cache
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\obj\Debug\CSedu.OMR.dlgAdjust.resources
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\obj\Debug\CSedu.OMR.dlgAlart.resources
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\obj\Debug\CSedu.OMR.dlgFullSheet.resources
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\obj\Debug\CSedu.OMR.dlgStudent.resources
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\obj\Debug\CSedu.OMR.frmLogin.resources
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\obj\Debug\CSedu.OMR.frmReader.resources
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\obj\Debug\CSedu.OMR.pnlDetailScore.resources
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\obj\Debug\CSedu.OMR.Properties.Resources.resources
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\obj\Debug\CSedu.OMR.resource.msg.en.resources
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\obj\Debug\CSedu.OMR.resource.msg.ko.resources
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\obj\Debug\cs_omr_reader.csproj.GenerateResource.cache
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\obj\Debug\cs_omr_reader.csproj.CoreCompileInputs.cache
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\obj\Debug\en\CS_OMRReader.resources.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\obj\Debug\ko\CS_OMRReader.resources.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\obj\Debug\cs_omr_reader.csproj.CopyComplete
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\obj\Debug\CS_OMRReader.exe
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\obj\Debug\CS_OMRReader.pdb
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\OMRReader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\bin\Debug\resource\msg.ko.resx
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\bin\Debug\resource\msg.ko.Designer.cs
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\bin\Debug\CS_OMRReader.exe.config
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\bin\Debug\CS_OMRReader.exe
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\bin\Debug\CS_OMRReader.pdb
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\bin\Debug\en\CS_OMRReader.resources.dll
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\bin\Debug\ko\CS_OMRReader.resources.dll
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\bin\Debug\AForge.dll
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\bin\Debug\AForge.Imaging.dll
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\bin\Debug\AForge.Math.dll
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\bin\Debug\CButtonLib.dll
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\bin\Debug\cs_omr_lib.dll
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\bin\Debug\ExcelLibrary.dll
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\bin\Debug\NPOI.dll
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\bin\Debug\NPOI.OOXML.dll
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\bin\Debug\cs_omr_lib.pdb
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\bin\Debug\AForge.xml
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\bin\Debug\AForge.Imaging.xml
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\bin\Debug\AForge.Math.xml
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\bin\Debug\CButtonLib.xml
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\bin\Debug\NPOI.xml
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\bin\Debug\NPOI.OOXML.xml
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\obj\Debug\cs_omr_reader.csproj.AssemblyReference.cache
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\obj\Debug\CSedu.OMR.dlgAdjust.resources
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\obj\Debug\CSedu.OMR.dlgAlart.resources
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\obj\Debug\CSedu.OMR.dlgFullSheet.resources
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\obj\Debug\CSedu.OMR.dlgStudent.resources
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\obj\Debug\CSedu.OMR.frmLogin.resources
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\obj\Debug\CSedu.OMR.frmReader.resources
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\obj\Debug\CSedu.OMR.pnlDetailScore.resources
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\obj\Debug\CSedu.OMR.Properties.Resources.resources
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\obj\Debug\CSedu.OMR.resource.msg.en.resources
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\obj\Debug\CSedu.OMR.resource.msg.ko.resources
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\obj\Debug\cs_omr_reader.csproj.GenerateResource.cache
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\obj\Debug\cs_omr_reader.csproj.CoreCompileInputs.cache
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\obj\Debug\en\CS_OMRReader.resources.dll
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\obj\Debug\ko\CS_OMRReader.resources.dll
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\obj\Debug\cs_omr_reader.csproj.CopyComplete
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\obj\Debug\CS_OMRReader.exe
+C:\Users\user1\CS-OMR\CS-OMR-NSW\OMRReader\obj\Debug\CS_OMRReader.pdb

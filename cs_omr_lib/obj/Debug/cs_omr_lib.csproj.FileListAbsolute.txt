@@ -1,0 +1,56 @@
+C:\TFS\CS OMR\cs_omr_lib\bin\Debug\cs_omr_lib.dll
+C:\TFS\CS OMR\cs_omr_lib\bin\Debug\cs_omr_lib.pdb
+C:\TFS\CS OMR\cs_omr_lib\bin\Debug\AForge.dll
+C:\TFS\CS OMR\cs_omr_lib\bin\Debug\AForge.Imaging.dll
+C:\TFS\CS OMR\cs_omr_lib\bin\Debug\AForge.Math.dll
+C:\TFS\CS OMR\cs_omr_lib\bin\Debug\AForge.xml
+C:\TFS\CS OMR\cs_omr_lib\bin\Debug\AForge.Imaging.xml
+C:\TFS\CS OMR\cs_omr_lib\bin\Debug\AForge.Math.xml
+C:\TFS\CS OMR\cs_omr_lib\obj\Debug\cs_omr_lib.csproj.CoreCompileInputs.cache
+C:\TFS\CS OMR\cs_omr_lib\obj\Debug\cs_omr_lib.csproj.CopyComplete
+C:\TFS\CS OMR\cs_omr_lib\obj\Debug\cs_omr_lib.dll
+C:\TFS\CS OMR\cs_omr_lib\obj\Debug\cs_omr_lib.pdb
+C:\TFS\CS OMR\cs_omr_lib\obj\Debug\cs_omr_lib.csprojAssemblyReference.cache
+C:\TFS\CS OMR - TESTBANK\cs_omr_lib\bin\Debug\cs_omr_lib.dll
+C:\TFS\CS OMR - TESTBANK\cs_omr_lib\bin\Debug\cs_omr_lib.pdb
+C:\TFS\CS OMR - TESTBANK\cs_omr_lib\bin\Debug\AForge.dll
+C:\TFS\CS OMR - TESTBANK\cs_omr_lib\bin\Debug\AForge.Imaging.dll
+C:\TFS\CS OMR - TESTBANK\cs_omr_lib\bin\Debug\AForge.Math.dll
+C:\TFS\CS OMR - TESTBANK\cs_omr_lib\bin\Debug\AForge.xml
+C:\TFS\CS OMR - TESTBANK\cs_omr_lib\bin\Debug\AForge.Imaging.xml
+C:\TFS\CS OMR - TESTBANK\cs_omr_lib\bin\Debug\AForge.Math.xml
+C:\TFS\CS OMR - TESTBANK\cs_omr_lib\obj\Debug\cs_omr_lib.csproj.CoreCompileInputs.cache
+C:\TFS\CS OMR - TESTBANK\cs_omr_lib\obj\Debug\cs_omr_lib.csproj.CopyComplete
+C:\TFS\CS OMR - TESTBANK\cs_omr_lib\obj\Debug\cs_omr_lib.dll
+C:\TFS\CS OMR - TESTBANK\cs_omr_lib\obj\Debug\cs_omr_lib.pdb
+C:\TFS\CS OMR - TESTBANK\cs_omr_lib\obj\Debug\cs_omr_lib.csprojAssemblyReference.cache
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_lib\obj\Debug\cs_omr_lib.csproj.CoreCompileInputs.cache
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_lib\obj\Debug\cs_omr_lib.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_lib\obj\Debug\cs_omr_lib.pdb
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_lib\bin\Debug\cs_omr_lib.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_lib\bin\Debug\cs_omr_lib.pdb
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_lib\bin\Debug\AForge.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_lib\bin\Debug\AForge.Imaging.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_lib\bin\Debug\AForge.Math.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_lib\bin\Debug\AForge.xml
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_lib\bin\Debug\AForge.Imaging.xml
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_lib\bin\Debug\AForge.Math.xml
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_lib\obj\Debug\cs_omr_lib.csproj.CopyComplete
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_lib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_lib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_lib\obj\Debug\cs_omr_lib.csproj.AssemblyReference.cache
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_lib\bin\Debug\cs_omr_lib.dll
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_lib\bin\Debug\cs_omr_lib.pdb
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_lib\bin\Debug\AForge.dll
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_lib\bin\Debug\AForge.Imaging.dll
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_lib\bin\Debug\AForge.Math.dll
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_lib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_lib\bin\Debug\AForge.xml
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_lib\bin\Debug\AForge.Imaging.xml
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_lib\bin\Debug\AForge.Math.xml
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_lib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_lib\obj\Debug\cs_omr_lib.csproj.AssemblyReference.cache
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_lib\obj\Debug\cs_omr_lib.csproj.CoreCompileInputs.cache
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_lib\obj\Debug\cs_omr_lib.csproj.CopyComplete
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_lib\obj\Debug\cs_omr_lib.dll
+C:\Users\user1\CS-OMR\CS-OMR-NSW\cs_omr_lib\obj\Debug\cs_omr_lib.pdb

@@ -1,0 +1,14 @@
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_lib\bin\Release\cs_omr_lib.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_lib\bin\Release\cs_omr_lib.pdb
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_lib\bin\Release\AForge.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_lib\bin\Release\AForge.Imaging.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_lib\bin\Release\AForge.Math.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_lib\bin\Release\Newtonsoft.Json.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_lib\bin\Release\AForge.xml
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_lib\bin\Release\AForge.Imaging.xml
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_lib\bin\Release\AForge.Math.xml
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_lib\bin\Release\Newtonsoft.Json.xml
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_lib\obj\Release\cs_omr_lib.csproj.CoreCompileInputs.cache
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_lib\obj\Release\cs_omr_lib.csproj.CopyComplete
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_lib\obj\Release\cs_omr_lib.dll
+C:\Users\user1\CS OMR\CS OMR - TESTBANK\cs_omr_lib\obj\Release\cs_omr_lib.pdb

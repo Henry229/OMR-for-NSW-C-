@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IDE0036: 순서 한정자
+dotnet_diagnostic.IDE0036.severity = none
